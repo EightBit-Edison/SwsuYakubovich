@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\TestApp\Application\Application\bin\Debug\Application.dll
+C:\Users\user\Desktop\TestApp\Application\Application\bin\Debug\Application.pdb
+C:\Users\user\Desktop\TestApp\Application\Application\bin\Debug\Application.Application.apk
+C:\Users\user\Desktop\TestApp\Application\Application\bin\Debug\Application.Application-Signed.apk
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\Application.dll
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\Application.pdb
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\android\bin\Application.Application.apk
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\res\layout\main.xml
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\res\values\strings.xml
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\res\drawable\icon.png
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\TestApp\Application\Application\obj\Debug\Application.dll.mdb
+C:\Users\user\Desktop\TestApp\Application\Application\bin\Debug\Application.dll.mdb
